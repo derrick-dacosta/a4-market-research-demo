@@ -26,12 +26,13 @@ Add your API keys to `.env`:
 python3 market_research.py
 ```
 
-### Initial Question
+## Sample Questions
+
 ```bash
 > What is the latest news about Comcast's market position?
 ```
 
-### Follow up Question
+#### Follow up Question
 ```bash
 > Is their P/E ratio typical compared to other companies in the industry?
 ```
